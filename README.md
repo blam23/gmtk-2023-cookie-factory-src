@@ -1,2 +1,4 @@
 # gmtk-2023-cookie-factory-src
-Source for https://blambear.itch.io/cookie-factory
+C# source for https://blambear.itch.io/cookie-factory
+
+These are the c# unity scripts used without any other metadata provided, these files are provided as-is and are simply for reference.
